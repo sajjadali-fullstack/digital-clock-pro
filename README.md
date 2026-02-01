@@ -1,6 +1,13 @@
 # Digital Clock Pro
 
-A **responsive digital clock** built with **HTML, CSS, and JavaScript**.  
+A **responsive digital clock** built with
+
+-  **HTML** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML <br>
+- **CSS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS <br>
+-  **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
+
+---
+
 It features:
 
 - 12/24-hour time format toggle  
@@ -14,13 +21,13 @@ It features:
 
 Check out the live version of the clock here:  
 
-[**View Digital Clock Pro Live**](https://your-username.github.io/digital-clock-pro/)
+[**View Digital Clock Pro Live**](https://sajjadali-fullstack.github.io/digital-clock-pro/)
 
 ---
 
 ## Demo
 
-![Digital Clock Screenshot](screenshot.png)  
+![Digital Clock Screenshot](https://github.com/sajjadali-fullstack/digital-clock-pro/blob/84d14e0315b6f612d52faf8575baa914252274dc/digital-clock-pro.png)
 
 ---
 
